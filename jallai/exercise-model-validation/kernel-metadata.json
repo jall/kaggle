@@ -1,0 +1,19 @@
+{
+  "id": "jallai/exercise-model-validation",
+  "id_no": 2557739,
+  "title": "Exercise: Model Validation",
+  "code_file": "exercise-model-validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ]
+}

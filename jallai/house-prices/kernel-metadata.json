@@ -1,0 +1,17 @@
+{
+  "id": "jallai/house-prices",
+  "id_no": 2616881,
+  "title": "House prices",
+  "code_file": "house-prices.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ]
+}

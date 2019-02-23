@@ -1,0 +1,19 @@
+{
+  "id": "jallai/exercise-underfitting-and-overfitting-063f74",
+  "id_no": 2587659,
+  "title": "Exercise: Underfitting and Overfitting 063f74",
+  "code_file": "exercise-underfitting-and-overfitting-063f74.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ]
+}
